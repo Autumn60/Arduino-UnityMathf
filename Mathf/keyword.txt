@@ -1,0 +1,18 @@
+Mathf		KEYWORD1
+
+Deg2Rad		KEYWORD2
+Rad2Deg		KEYWORD2
+
+Lerp		KEYWORD2
+LerpUnclamped	KEYWORD2
+InverseLerp	KEYWORD2
+Round		KEYWORD2
+Sign		KEYWORD2
+Ceil		KEYWORD2
+Floor		KEYWORD2
+DeltaAngle	KEYWORD2
+Max		KEYWORD2
+Min		KEYWORD2
+Approximately	KEYWORD2
+IsPowerOfTwo	KEYWORD2
+ToString	KEYWORD2
